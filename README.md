@@ -4,12 +4,12 @@ Data Science Bootcamp Projects
 - Database
 - R Programming
 
-I love 'R programming'. (in line code)
+I love `R programming`. (in line code)
 
 ## Code Block
-''' sql
+```sql
 SELECT hello world" FROM bootcamp:
-'''
+```
 
 Website :
 
